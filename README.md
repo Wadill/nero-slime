@@ -158,7 +158,7 @@ Love Nero-Slime? Contribute!
 
 ---
 
-## 🪪 License
+## License
 
 MIT License - Free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
