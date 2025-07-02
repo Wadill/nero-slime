@@ -36,7 +36,7 @@ It’s a game-changer for DeFi, GameFi, and SocialFi on the NERO Chain!
 
 ---
 
-## 🧱 Challenges I Ran Into
+## Challenges I Ran Into
 
 Building Nero-Slime was an adventure with a few bumps:
 
@@ -78,7 +78,7 @@ We crafted Nero-Slime like digital artisans:
 
 ---
 
-## 📚 What We Learned
+## What We Learned
 
 Nero-Slime taught us a ton:
 
@@ -91,7 +91,7 @@ UX, community sentiment, and marketing are key.
 
 ---
 
-## 🔮 What's Next for Nero-Slime
+## What's Next for Nero-Slime
 
 Nero-Slime’s journey is just beginning! Watch for:
 
@@ -111,7 +111,7 @@ We’ll deploy on NERO Testnet, add Web3Auth social login, and aim for DeFi domi
 
 ---
 
-## 🧩 Installation
+## Installation
 
 1. **Clone the Repository**:
 ```bash
@@ -148,7 +148,7 @@ We’ll deploy on NERO Testnet, add Web3Auth social login, and aim for DeFi domi
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Love Nero-Slime? Contribute!
 
@@ -165,7 +165,7 @@ MIT License - Free to use, modify, and distribute. See [LICENSE](LICENSE) for de
 
 ---
 
-Let’s slime the crypto world together! 🚀
+Let’s slime the crypto world together! 
 
 ---
 
